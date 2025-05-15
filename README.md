@@ -11,7 +11,7 @@ A Django web application to showcase sports supplements with category filtering.
 
 ## Technologies Used
 
-- **Python ** 
+- **Python** 
 - **Django**
 - **Bootstrap 5**
 - **SQLite**
